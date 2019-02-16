@@ -1,3 +1,3 @@
 # Every Vote Counts
 
-Polling app. 
+Polling app creted in react and mongoDB.
