@@ -13,7 +13,7 @@
 		"mongoose": "^5.0.15"
 	},
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "npm start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "seed": "node seed.js"
